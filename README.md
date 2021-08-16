@@ -8,4 +8,4 @@ I am very slow at learning git and github.
 
 Here is another new line. 
 
-Changed my text. 
+Here is a new line.
